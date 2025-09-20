@@ -1,1 +1,1 @@
-zai
+zai-sdk
