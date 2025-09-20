@@ -1,0 +1,12 @@
+{
+    "token": {
+        "description": "API Token",
+        "type": "string"
+    },
+
+    "model": {
+        "description": "model name",
+        "type": "string",
+        "default": "cogview-4"
+    }
+}
